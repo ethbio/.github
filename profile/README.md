@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/eD9EQxS.png" align="right" />
+<img src="https://i.imgur.com/eD9EQxS.png" align="right" width="200px" />
 
 # Ethbio
 
