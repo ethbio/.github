@@ -1,5 +1,5 @@
 <a href="https://ethbio.xyz/">
-  <img src="../assets/Ethbio.png" align="right" width="200px" />
+  <img src="https://raw.githubusercontent.com/ethbio/.github/master/assets/Ethbio.png" align="right" width="200px" />
 </a>
 
 <h1 align="center"> Ethbio </h1>
